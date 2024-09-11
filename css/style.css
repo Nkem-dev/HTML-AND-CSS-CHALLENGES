@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-color:blueviolet;
+} */
+.omellete-main{
+    margin: 40px;
+    font-family: serif;
+    color: rgb(28, 32, 34);
+    
+}
+
+.omellete-image{
+    width: 100%;
+    height: 100vh;
+    border-radius: 55px;
+}
+
+.first-heading{
+    margin-top: 35px;
+}
+
+
+.paragraph{
+    margin-top: 15px;
+    font-size: 1.3rem;
+    font-weight: light;
+    line-height: 1.8rem;
+}
+
+.prep-card{
+    width: 900px;
+    margin-top: 40px;
+    border: none;
+    padding: 25px;
+    line-height: 37px;
+    background: pink;
+    font-size: 1.11rem;
+    border-radius: 10px;
+    
+}
+
+.prep-card .sub{
+    margin-bottom: 7px;
+    color: rgb(188, 75, 112);
+    font-weight: bold;
+}
+
+.prep-card .prep-list{
+    margin-left: 25px;
+    font-weight: light;
+}
+
+.sub-heading{
+    margin-top: 20px;
+    color: rgb(160, 25, 70);
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+.ing-list{
+    margin-top: 10px;
+    line-height: 35px;
+    font-weight: light;
+    margin-left: 20px;
+
+}
+
+.inst-list{
+    margin-top: 10px;
+    line-height: 38px;
+}
+
+li::marker{
+    color: palevioletred;
+    font-weight: bolder;
+}
+
+.nutrition-section{
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+.nutrition-section h2{
+    color: #7f2a2a;
+    font-size: 24px;
+}
+
+.nutrition-section p{
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+    margin-top: 10px;
+}
+
+.nutrition-table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.nutrition-table th, .nutrition-table td{
+    padding: 12px;
+    /* text-align: left; */
+    border-bottom: 1px solid #ddd;
+}
+
+.nutrition-table th{
+    font-weight: lighter;
+    font-size: 16px;
+}
+
+.nutrition-table td{
+    font-size: 16px;
+    font-weight: bold;
+    color: #7f2a2a;
+}

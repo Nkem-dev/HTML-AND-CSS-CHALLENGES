@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    /* by default it only has one column */
+    grid-template-columns: 100px auto 100px;
+    /* grid template columns defines the width of the columns */
+    /* grid-template-colums will define how many columns and how wide we want them to be. 
+    Auto means that the column will take up any remaining space there is in the width*/
+    grid-template-rows: 50px 50px;
+    /* grid-template-rows defines the height of the row */
+    grid-gap: 3px;
+    
+    
+}

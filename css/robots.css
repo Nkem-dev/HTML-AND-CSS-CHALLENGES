@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#hero-section{
+    width: 100%;
+    height: 95vh;
+    border: 1px solid black;
+    background: url(../img/CoverStory_robots.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.hero-robot{
+    color: white;
+    text-align: ;
+
+}
+
+.hero-text{
+    
+    
+}
