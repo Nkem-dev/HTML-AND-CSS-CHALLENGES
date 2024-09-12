@@ -228,7 +228,7 @@ main{
     height: 55vh;
     border: 1px solid black;
     margin-top: 40px;
-    background-color: rgb(85, 64, 160);
+    background-color: #5f4d9e;
     
 }
 
@@ -238,8 +238,13 @@ main{
 }
 
 .liscence{
-    width: 160%;
-    height: 90vh;
+    width: 130%;
+    height: 75vh;
     position: relative;
-    bottom: 7rem;
+    bottom: 3rem;
+    right: 5rem;
+}
+
+.shield-contents{
+    color: #fff;
 }
