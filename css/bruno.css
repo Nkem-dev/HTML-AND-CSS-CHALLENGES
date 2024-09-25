@@ -51,6 +51,7 @@ nav{
 .icons{
     margin-top: 30px;
     margin-right: 25px;
+   
 }
 
 #bruno-text{
@@ -246,3 +247,121 @@ nav{
     font-size: 15px;
     margin-top: 15px;
 }
+
+#fourth-text{
+    width: 50%;
+    margin: 60px auto;
+    
+
+}
+
+#fifth-section{
+    width: 100%;
+    height: 75vh;
+    background-color: whitesmoke;
+    margin-top: 80px;
+}
+
+.right-arrow{
+    position: relative;
+    left: 42rem;
+    bottom: 6.8rem;
+    font-size: 30px;
+}
+
+.left-arrow{
+    position: relative;
+    top: 6.7rem;
+    left: 9rem;
+    font-size: 30px;
+}
+
+.jug{
+    text-align: center;
+    line-height: 1.5rem;
+    position: relative;
+    bottom: 2rem;
+}
+
+#product{
+    font-size: 10px;
+}
+
+.bruno-container{
+    display: flex;
+    gap: 3px;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+#bruno-text{
+    margin-top: 40px;
+}
+.bruno-image{
+    width: 150px;
+    height: 170px;
+}
+
+#seventh-section{
+    margin-top: 100px;
+    
+   
+}
+
+#describe{
+    text-align: center;
+    font-size: 15px;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+#call-text{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 5px;
+}
+
+.call-bruno{
+    border: 2px dotted black;
+    width: 270px;
+    height: 70vh;
+    margin: auto;
+    border-radius: 50%;
+
+}
+
+#arrow{
+   
+        margin-left: 80px;
+        font-size: 40px;
+    
+}
+
+.footer-section{
+    display: flex;
+    margin-top: 90px;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+
+#rights{
+    font-size: 9px;
+    margin-left: 20px;
+}
+
+.link{
+    font-size: 10.5px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    bottom: 0.2rem;
+    right: 2rem;
+}
+
+.footer-icons{
+    position: relative;
+    bottom: 0.2rem;
+    right: 2rem;
+}
+
+
